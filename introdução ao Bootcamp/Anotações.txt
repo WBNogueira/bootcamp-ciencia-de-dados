@@ -1,0 +1,10 @@
+Anotações sobre o Bootcamp Geração Tech Unimed-BH - Ciência de Dados:
+1º Modulo:
+- 13/09/2022 - Boas-vindas ao Bootcamp: Geração Tech Unimed-BH - Ciência de dados.
+- Conheça as Oportunidades da DIO: realizado em outro Bootcamp em 23/07/2022.
+- Seja Protagonista Neste Bootcamp: realizado em outro Bootcamp em 23/07/2022.
+- 14/09/2022 - Introdução à Programação e Pensamento Computacional.
+- Introdução ao Git e GitHub: realizado em outro Bootcamp em 16/07/2022.
+- 15/09/2022 - Como Entregar Seu Desafio de Projeto.
+- 15/09/2022 - Desafio de Projeto - Criando Seu Primeiro Repositório no GitHub Para Compartilhar Seu Projeto - Link GitHub https://github.com/WBNogueira/bootcamp-ciencia-de-dados.git.
+- 20/09/2022 - Geração Tech Unimed-BH - Ciência de Dados | Aula Inagural.
