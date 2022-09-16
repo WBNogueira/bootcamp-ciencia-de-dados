@@ -12,3 +12,7 @@ Anotações sobre o Bootcamp Geração Tech Unimed-BH - Ciência de Dados:
 2º Modulo:
 - 15/09/2022 - Ambiente de Desenvolvimento e Primeiros Passos com Python.
 - 15/09/2022 - Conhecendo a Linguagem de Programação Python.
+- 16/09/2022 - Tipos de Operadores com Python.
+- 16/09/2022 - Estruturas Condicionais e de Repetição em Python.
+- 16/09/2022 - Manipulação de strings com Python.
+- 16/09/2022 - Desafio de código - Desafios Iniciais Py - Unimed-BH
