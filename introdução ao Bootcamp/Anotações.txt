@@ -20,4 +20,7 @@ Anotações sobre o Bootcamp Geração Tech Unimed-BH - Ciência de Dados:
 - 19/09/2022 - Trabalhando com Listas em Python.
 - 19/09/2022 - Conhecendo Tuplas em Python.
 - 19/09/2022 - Explorando Conjuntos em Python.
-- 19/06/2022 - Aprendendo a Utilizar Dicionários em Python.
+- 19/09/2022 - Aprendendo a Utilizar Dicionários em Python.
+- 20/09/2022 - Dominando Funções Python.
+- 20/09/2022 - Fundamentos de ETL (Extract, Transform, Load) com Python.
+- 20/09/2022 - Introdução à Programação Orientada a Objetos (POO) com Python.
