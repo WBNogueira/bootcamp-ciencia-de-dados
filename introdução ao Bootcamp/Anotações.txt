@@ -24,3 +24,7 @@ Anotações sobre o Bootcamp Geração Tech Unimed-BH - Ciência de Dados:
 - 20/09/2022 - Dominando Funções Python.
 - 20/09/2022 - Fundamentos de ETL (Extract, Transform, Load) com Python.
 - 20/09/2022 - Introdução à Programação Orientada a Objetos (POO) com Python.
+- 21/09/2022 - Aprendendo o Conceito de Herança com Python.
+- 21/09/2022 - Aplicando Encapsulamento em Python.
+- 21/09/2022 - Conhecendo Polimorfismo em Python.
+- 21/09/2022 - Ampliando o conhecimento em POO com Python.
