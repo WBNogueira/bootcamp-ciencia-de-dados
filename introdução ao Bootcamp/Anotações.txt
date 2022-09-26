@@ -28,3 +28,5 @@ Anotações sobre o Bootcamp Geração Tech Unimed-BH - Ciência de Dados:
 - 21/09/2022 - Aplicando Encapsulamento em Python.
 - 21/09/2022 - Conhecendo Polimorfismo em Python.
 - 21/09/2022 - Ampliando o conhecimento em POO com Python.
+- 23/09/2022 - Desafio de código - Desafios Intermadiários Py - Unimed-BH.
+- 26/09/2022 - Entrega do desafio de projeto Descomplicando a criação de pacotes de processamento de imagens em Python - Link: https://github.com/WBNogueira/como_processar_imagens.git.
