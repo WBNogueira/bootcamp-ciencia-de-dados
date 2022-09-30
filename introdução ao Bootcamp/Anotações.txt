@@ -31,3 +31,10 @@ Anotações sobre o Bootcamp Geração Tech Unimed-BH - Ciência de Dados:
 - 23/09/2022 - Desafio de código - Desafios Intermadiários Py - Unimed-BH.
 - 26/09/2022 - Entrega do desafio de projeto Descomplicando a criação de pacotes de processamento de imagens em Python - Link: https://github.com/WBNogueira/como_processar_imagens.git.
 - 27/09/2022 - Entrega do desafio de projeto Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil - Link: https://github.com/WBNogueira/evolucao_covid19_brasil.git.
+
+3º Modulo
+- 28/09/2022 - Introdução a Banco de Dados.
+- 28/09/2022 - Sistemas de Gerenciamento de Banco de Dados.
+- 29/09/2022 - Modelagem de Dados para Banco de Dados.
+- 29/09/2022 - Arquitetura de Banco de Dados.
+- 29/09/2022 - Fundamentos de Modelagem e Projeto de Banco de Dados.
