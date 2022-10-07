@@ -36,5 +36,9 @@ Anotações sobre o Bootcamp Geração Tech Unimed-BH - Ciência de Dados:
 - 28/09/2022 - Introdução a Banco de Dados.
 - 28/09/2022 - Sistemas de Gerenciamento de Banco de Dados.
 - 29/09/2022 - Modelagem de Dados para Banco de Dados.
-- 29/09/2022 - Arquitetura de Banco de Dados.
-- 29/09/2022 - Fundamentos de Modelagem e Projeto de Banco de Dados.
+- 30/09/2022 - Arquitetura de Banco de Dados.
+- 30/09/2022 - Fundamentos de Modelagem e Projeto de Banco de Dados.
+- 03/10/2022 - Modelo de Entidade Relacionamento com Banco de Dados.
+- 04/10/2022 - Modelo Relacionamento de Entidade Aprimorado com Banco de Dados.
+- 06/10/2022 - Entrega do Refinando um Projeto Conceitual de Banco de Dados - E-COMMERCE - link: https://github.com/WBNogueira/Projeto-Conceitual-de-Banco-de-Dados-E-COMMERCE.git.
+- 06/10/2022 - Entrega do projeto Construindo um Esquema Conceitual para Banco de Dados - link: https://github.com/WBNogueira/Esquema-Conceitual-para-Banco-De-dados.git.
