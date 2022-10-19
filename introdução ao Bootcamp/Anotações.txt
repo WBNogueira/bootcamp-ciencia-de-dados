@@ -42,3 +42,7 @@ Anotações sobre o Bootcamp Geração Tech Unimed-BH - Ciência de Dados:
 - 04/10/2022 - Modelo Relacionamento de Entidade Aprimorado com Banco de Dados.
 - 06/10/2022 - Entrega do Refinando um Projeto Conceitual de Banco de Dados - E-COMMERCE - link: https://github.com/WBNogueira/Projeto-Conceitual-de-Banco-de-Dados-E-COMMERCE.git.
 - 06/10/2022 - Entrega do projeto Construindo um Esquema Conceitual para Banco de Dados - link: https://github.com/WBNogueira/Esquema-Conceitual-para-Banco-De-dados.git.
+- 10/10/2022 - Modelo Relacional e Mapeamento Relacional com Banco de Dados.
+- 13/10/2022 - Primeiros Passos com SQL.
+- 17/10/2022 - Explorando Queries com SQL.
+- 19/10/2022 - Criando Queries com Funções e Cláusulas de Agrupamentos.
