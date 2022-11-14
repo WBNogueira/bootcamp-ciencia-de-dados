@@ -60,5 +60,9 @@ Anotações sobre o Bootcamp Geração Tech Unimed-BH - Ciência de Dados:
 - 08/11/2022 - Desafio - Explorando Dados Demográficos com Serviços de Big Data na AWS - Link: https://github.com/WBNogueira/Servi-os-de-Big-Data-na-AWS.git.
 
 5º Módulo - Machine Learning:
-
+- 08/11/2022 - Linguagens de Programação para Machine Learning.
+- 10/11/2022 - Python para Machine Learning.
+- 11/11/2022 - R para Machine Learning.
+- 11/11/2022 - Entendendo Machine Learning com Amazon SageMaker.
+- 13/11/2022 - Projeto Treinamento de Redes Neurais com Transfer Learning - link: https://github.com/WBNogueira/Transfer_Learning.git.
 
